@@ -20,9 +20,9 @@ We hope to deal with the following question
 
 ## What is your data about? Where does it come from? What attributes are you going to use? What is their meaning? What are their attribute types (data abstraction)? Do you plan to generate derived attributes? If yes, which and why?
 
-![image3](https://raw.githubusercontent.com/yogazh25/Group-5-StockTweets/master/msgTable.png)
-![image4](https://raw.githubusercontent.com/yogazh25/Group-5-StockTweets/master/stockTable.png)
-![image5](https://raw.githubusercontent.com/yogazh25/Group-5-StockTweets/master/userTable.png)
+![image3](https://raw.githubusercontent.com/yogazh25/StockTwitsVis/master/assets/msgTable.png)
+![image4](https://raw.githubusercontent.com/yogazh25/StockTwitsVis/master/assets/stockTable.png)
+![image5](https://raw.githubusercontent.com/yogazh25/StockTwitsVis/master/assets/userTable.png)
 
 ## Final Visualization
 ##### 1.	Screenshots of final visualization
